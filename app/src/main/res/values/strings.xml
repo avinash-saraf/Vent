@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Vent</string>
+    <string name="tab_text_1">Venty</string>
+    <string name="tab_text_2">Chats</string>
+    <string name="tab_text_3">Recreation</string>
+    <string name="botName">Venty</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

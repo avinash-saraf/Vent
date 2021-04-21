@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/overflow_contacts"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_contacts"
+        android:title="Contacts"/>
+
+    <item android:id="@+id/overflow_music"
+        app:showAsAction="never"
+        android:title="Music">
+        <menu>
+
+            <item android:id="@+id/overflow_music_on"
+                app:showAsAction="never"
+                android:title="Music On"/>
+            <item android:id="@+id/overflow_music_off"
+                app:showAsAction="never"
+                android:title="Music off"/>
+
+        </menu>
+
+    </item>
+    <item android:id="@+id/overflow_logout"
+        app:showAsAction="never"
+        android:title="Logout"/>
+
+</menu>
