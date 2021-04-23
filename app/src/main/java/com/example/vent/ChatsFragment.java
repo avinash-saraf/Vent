@@ -313,12 +313,34 @@ public class ChatsFragment extends Fragment {
                                 @Override
                                 public void onComplete(@NonNull Task<Void> task) {
                                     if(task.isSuccessful()){
-                                        Toast.makeText(rootView.getContext(), "Contact Added: "+ receiverUserId, Toast.LENGTH_SHORT).show();
+                                        displayContactAdded(receiverUserId);
+                                        //Toast.makeText(rootView.getContext(), "Contact Added: "+ receiverUserId, Toast.LENGTH_SHORT).show();
                                     }
                                 }
                             });
                         }
                     }
                 });
+    }
+
+
+    private void displayContactAdded(final String contactId){
+        final DatabaseReference userRef = rootRef.child("Users");
+        ValueEventListener valueEventListener = new ValueEventListener() {
+            @Override
+            public void onDataChange(@NonNull DataSnapshot snapshot) {
+                if (snapshot.exists()){
+                    String contactName = snapshot.child("displayname").getValue().toString();
+                    Toast.makeText(rootView.getContext(), "Contact Added: " + contactName, Toast.LENGTH_SHORT).show();
+                }
+            }
+
+            @Override
+            public void onCancelled(@NonNull DatabaseError error) {
+
+            }
+        };
+        userRef.child(contactId).addListenerForSingleValueEvent(valueEventListener);
+        userRef.removeEventListener(valueEventListener);
     }
 }
