@@ -17,6 +17,7 @@ Vent is a mobile application for android where users can find a virtual friend t
   - state (online/last time seen) of the reciever user will be displayed below their name in the private chat activity
   - all the contacts user has chatted with will be displayed on the homepage
   - last message sent between users in private chat can be seen below the reciever user's name on the home page
+  - images are compressed to 30% quality before they are stored in the Firebase Storage
   
 - Contacts
   - online state of a contact will be displayed with a green dot in the contacts page
