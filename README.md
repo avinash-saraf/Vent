@@ -1,6 +1,10 @@
 # Vent
 Vent is a mobile application for android where users can find a virtual friend to whom they can vent.  
 
+## Download and Installation
+### APK
+Application can be downloaded via the url: https://github.com/avinash-saraf/Vent/releases/download/v1.0.0/app-debug.apk
+
 ## Features
 - A user can add another user from the user base randomly as contact. 
 - A user can private chat with any contact and send messages containing text or images.
