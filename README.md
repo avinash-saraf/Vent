@@ -12,6 +12,7 @@ Application can be downloaded via the url: https://github.com/avinash-saraf/Vent
 - A user can play tic-tac-toe with the computer.
 
 ## Implementation
+The following is how some of the most important parts of the app was implemented.
 - Sign-Up/Login using mobile number using Firebase Authentication as the backend. Unique id generated for each user account by FirebaseAuth is used to save user info (such as account details, and messages sent) in Firebase Realtime Database. (user's node is set as unique id)
 - Two-factor authentication
   - After creating account with mobile number, user is prompted to enter details such as 'displayname', 'country' and 'status'.
