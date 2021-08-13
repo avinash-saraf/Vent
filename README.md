@@ -42,7 +42,7 @@ The following is how some of the most important parts of the app was implemented
 ## Screenshots
   Note: Due to resizing, the images may not reflect the true quality (for that, click on the images to open them in a new tab)<br><br>
    - Chats Tab <br> <br>
-  <img src="https://user-images.githubusercontent.com/82901399/129341551-71ad0ab8-0dcd-45b2-8ed0-d808ca8e048d.png" alt="Chats Tab" width="432" height="740"> <img src="https://user-images.githubusercontent.com/82901399/129341547-28eae9a2-ce18-4186-89c0-8004ec9cbe8c.png" alt="Chat Activity" width="432" height="740"> <br> <br>
+  <img src="https://user-images.githubusercontent.com/82901399/129341551-71ad0ab8-0dcd-45b2-8ed0-d808ca8e048d.png" alt="Chats Tab" width="378" height="647"> <img src="https://user-images.githubusercontent.com/82901399/129341547-28eae9a2-ce18-4186-89c0-8004ec9cbe8c.png" alt="Chat Activity" width="378" height="647"> <br> <br>
    - Clicking the plus (+) icon in the bottom-right corner of the chats tab <br> <br>
   <img src="https://user-images.githubusercontent.com/82901399/129341559-335ef184-bdae-4767-9540-0c79e1770f2a.png" alt="Add new contact" width="432" height="740"> <br> <br>
   
