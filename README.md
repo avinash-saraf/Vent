@@ -39,3 +39,23 @@ The following is how some of the most important parts of the app was implemented
 - Tic-Tac-Toe
   - User can play tic-toe-toe with computer. User starts as X and computer randomly makes move in response. Tic-tac-toe board made using buttons and changing the button text when necessary.
   
+## Screenshots
+  Note: Due to resizing, the images may not reflect the true quality (for that, click on the images to open them in a new tab)<br><br>
+   - Chats Tab <br> <br>
+  <img src="https://user-images.githubusercontent.com/82901399/129341551-71ad0ab8-0dcd-45b2-8ed0-d808ca8e048d.png" alt="Chats Tab" width="432" height="740"> <img src="https://user-images.githubusercontent.com/82901399/129341547-28eae9a2-ce18-4186-89c0-8004ec9cbe8c.png" alt="Chat Activity" width="432" height="740"> <br> <br>
+   - Clicking the plus (+) icon in the bottom-right corner of the chats tab <br> <br>
+  <img src="https://user-images.githubusercontent.com/82901399/129341559-335ef184-bdae-4767-9540-0c79e1770f2a.png" alt="Add new contact" width="432" height="740"> <br> <br>
+  
+   - Clicking the contacts icon in the top-right corner of the main page <br><br>
+  <img src="https://user-images.githubusercontent.com/82901399/129344378-db220930-2119-4fbd-afc4-8d0b3ff54deb.png" alt="Contacts" width="432" height="740"> <img src="https://user-images.githubusercontent.com/82901399/129344696-a6146b28-f3c6-4d51-8b4b-8e98d62a8419.png" alt="Contact Profile" width="432" height="740">
+  
+   - Recreation Tab <br> <br>
+  <img src="https://user-images.githubusercontent.com/82901399/129341553-f3754ab3-86bd-49d2-b436-89c113d4249b.png" alt="Recreation Tab" width="432" height="740"> <img src="https://user-images.githubusercontent.com/82901399/129341556-8f2c001b-ff0e-41c5-8909-a22c67fe6ee7.png" alt="Tic-Tac-Toe Game" width="432" height="740"><br><br>
+  
+  
+
+
+  
+
+  
+
