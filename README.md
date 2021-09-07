@@ -44,7 +44,7 @@ The following is how some of the most important parts of the app was implemented
   - User can play tic-toe-toe with computer. User starts as X and computer randomly makes move in response. Tic-tac-toe board made using buttons and changing the button text when necessary.
   
 ## Screenshots
-  Note: Due to resizing, the images may not reflect the true quality (for that, click on the images to open them in a new tab)<br><br>
+  __Note: Due to resizing, the images may not reflect the best quality (to view the UI in high-quality, download the apk and use the app!)__<br><br>
    - Chats Tab <br> <br>
   <img src="https://user-images.githubusercontent.com/82901399/129341551-71ad0ab8-0dcd-45b2-8ed0-d808ca8e048d.png" alt="Chats Tab" width="378" height="647"> <img src="https://user-images.githubusercontent.com/82901399/129341547-28eae9a2-ce18-4186-89c0-8004ec9cbe8c.png" alt="Chat Activity" width="378" height="647"> <br> <br>
    - Clicking the plus (+) icon in the bottom-right corner of the chats tab <br> <br>
